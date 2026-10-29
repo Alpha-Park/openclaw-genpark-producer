@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-genpark-producer",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark multimodal media task DAG producer with critical path makespan estimation and parallel stage orchestration.",
+  "tools": [
+    {
+      "name": "plan_multimodal_pipeline",
+      "description": "Compile multimodal asset creation jobs into dependency stages."
+    }
+  ]
+}
